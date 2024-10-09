@@ -1,0 +1,23 @@
+{
+    "name": "arduino-lib-ps2",
+    "keywords": "PS2",
+    "description": "PS2 Lib",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/grabanzo/arduino-lib-ps2.git"
+    },
+    "authors":
+    [
+      {
+        "name": "mriosalido",
+        "email": "none",
+        "url": "https://github.com/grabanzo",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "version": "0.0.1",
+    "frameworks": "*",
+    "platforms": "*"
+  }
